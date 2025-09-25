@@ -1,2 +1,2 @@
-''' __init__.py is a special file used to python
-  to define packages and initialize their namespaces. '''
+''' this is a spacile file use in pyhton 
+to define pakeges and interlize their namespaces'''
